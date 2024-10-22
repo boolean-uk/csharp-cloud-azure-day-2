@@ -21,6 +21,6 @@ For this exercise you should get a a back end application working on a VM in Azu
 
 ## Notes
 
-We will be only using free tiers to create Azure items.
+We will be only using free tiers to create Azure items..
 
 - Use the [Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)

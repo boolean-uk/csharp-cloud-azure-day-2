@@ -18,6 +18,7 @@ For this exercise you should get a a back end application working on a VM in Azu
 
 - Back end API using C# and the `dotnet new webapi` template with at least 1 endpoint
 - You may use an existing/new API
+- - Done
 
 ## Notes
 

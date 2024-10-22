@@ -1,3 +1,6 @@
+DONE
+
+was in the first vm I made, it got deleted while it was running but everything came up, possible to check logs!
 # C# Cloud Azure Day Two
 
 ## Learning Objectives

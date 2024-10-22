@@ -1,0 +1,6 @@
+@azureday2.wwwapi_HostAddress = http://localhost:5137
+
+GET {{azureday2.wwwapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

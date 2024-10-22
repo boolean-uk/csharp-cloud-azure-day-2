@@ -1,3 +1,4 @@
+Createad VM and hosted!
 # C# Cloud Azure Day Two
 
 ## Learning Objectives

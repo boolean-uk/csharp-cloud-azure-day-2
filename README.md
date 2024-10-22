@@ -1,3 +1,5 @@
+DONE ALL steps, the ip adress dont load for some reason
+
 # C# Cloud Azure Day Two
 
 ## Learning Objectives

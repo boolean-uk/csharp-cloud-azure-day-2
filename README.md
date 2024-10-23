@@ -1,3 +1,4 @@
+Done. As in previous day, let me know if prints are needed.
 # C# Cloud Azure Day Two
 
 ## Learning Objectives

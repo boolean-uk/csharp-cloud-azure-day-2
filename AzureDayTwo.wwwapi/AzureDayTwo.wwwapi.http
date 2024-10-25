@@ -1,0 +1,6 @@
+@AzureDayTwo.wwwapi_HostAddress = http://localhost:5217
+
+GET {{AzureDayTwo.wwwapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
